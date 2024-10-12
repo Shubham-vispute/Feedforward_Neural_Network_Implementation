@@ -1,0 +1,8 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+H:/MTECH_BITS/First_Semester/Hardware_Software_CoDesign/2024HT01026/Assignment1_NeuralNetwork_rev1/Assignment1_NeuralNetwork_rev1.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+H:/MTECH_BITS/First_Semester/Hardware_Software_CoDesign/2024HT01026/Assignment1_NeuralNetwork_rev1/Assignment1_NeuralNetwork_rev1.srcs/sim_1/new/testbench.v,1728671462,verilog,,,,testbench,,,,,,,,
+H:/MTECH_BITS/First_Semester/Hardware_Software_CoDesign/2024HT01026/Assignment1_NeuralNetwork_rev1/Assignment1_NeuralNetwork_rev1.srcs/sources_1/new/feedforward_nn.v,1728660525,verilog,,H:/MTECH_BITS/First_Semester/Hardware_Software_CoDesign/2024HT01026/Assignment1_NeuralNetwork_rev1/Assignment1_NeuralNetwork_rev1.srcs/sources_1/new/hidden_neuron.v,,feedforward_nn,,,,,,,,
+H:/MTECH_BITS/First_Semester/Hardware_Software_CoDesign/2024HT01026/Assignment1_NeuralNetwork_rev1/Assignment1_NeuralNetwork_rev1.srcs/sources_1/new/hidden_neuron.v,1728660426,verilog,,H:/MTECH_BITS/First_Semester/Hardware_Software_CoDesign/2024HT01026/Assignment1_NeuralNetwork_rev1/Assignment1_NeuralNetwork_rev1.srcs/sim_1/new/testbench.v,,hidden_neuron,,,,,,,,

@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Assignment1_NeuralNetwork_rev1.srcs/sources_1/new/feedforward_nn.v" \
+"../../../../Assignment1_NeuralNetwork_rev1.srcs/sources_1/new/hidden_neuron.v" \
+"../../../../Assignment1_NeuralNetwork_rev1.srcs/sim_1/new/testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

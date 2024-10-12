@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Thu Oct 10 23:41:13 2024
+# Process ID: 8184
+# Current directory: H:/MTECH_BITS/First_Semester/Hardware_Software_CoDesign/2024HT01026/Assignment1_NeuralNetwork/Assignment1_NeuralNetwork.runs/synth_1
+# Command line: vivado.exe -log feedforward_nn.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source feedforward_nn.tcl
+# Log file: H:/MTECH_BITS/First_Semester/Hardware_Software_CoDesign/2024HT01026/Assignment1_NeuralNetwork/Assignment1_NeuralNetwork.runs/synth_1/feedforward_nn.vds
+# Journal file: H:/MTECH_BITS/First_Semester/Hardware_Software_CoDesign/2024HT01026/Assignment1_NeuralNetwork/Assignment1_NeuralNetwork.runs/synth_1\vivado.jou
+# Running On        :DESKTOP-J0KQ8E9
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :19045
+# Processor Detail  :Intel(R) Core(TM) i3-7020U CPU @ 2.30GHz
+# CPU Frequency     :2304 MHz
+# CPU Physical cores:2
+# CPU Logical cores :4
+# Host memory       :4205 MB
+# Swap memory       :6037 MB
+# Total Virtual     :10243 MB
+# Available Virtual :2569 MB
+#-----------------------------------------------------------
+source feedforward_nn.tcl -notrace

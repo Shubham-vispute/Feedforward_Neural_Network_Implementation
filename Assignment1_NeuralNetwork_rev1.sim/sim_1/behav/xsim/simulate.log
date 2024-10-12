@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+Time: 0, Inputs: (  11,   22,   33,   44), Outputs: (   0,  110)
+Time: 10, Inputs: ( -10,   15,  -20,   25), Outputs: (  60,   65)
+Time: 20, Inputs: (   5,   25,   15,  -10), Outputs: (   0,    0)
+$finish called at time : 30 ns : File "H:/MTECH_BITS/First_Semester/Hardware_Software_CoDesign/2024HT01026/Assignment1_NeuralNetwork_rev1/Assignment1_NeuralNetwork_rev1.srcs/sim_1/new/testbench.v" Line 75
